@@ -1,0 +1,2 @@
+# strictweb
+Strict Website
